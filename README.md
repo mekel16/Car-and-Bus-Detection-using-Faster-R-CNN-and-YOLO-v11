@@ -69,5 +69,4 @@ Below is a results
 ![Test on 1 image](https://github.com/user-attachments/assets/ea42caf9-acf7-46b1-a44c-e68db79c268c)
 )  
 
-
-Feel free to contribute or report any issues in this project! 🚀  
+very open if there are improvements to this project I hope you understand a little how from the beginning to get data, annotate, then train, validate, and test and know the comparison between the faster r-cnn model and YOLO V11.! 🚀  
