@@ -51,7 +51,7 @@ Here’s the dataset structure:
 
 ## Results
 the results of using faster r-cnn are not very good because the unbalanced labels for the buss class are very few. so that the accuracy metrics obtained are as follows
-![Matrix Accuracy](Matrix%20Acuration.jpeg)  
+![Matrix Accuracy](assets/Matrix%20Acuration.jpeg)
 
 ![image](https://github.com/user-attachments/assets/117436c4-36ab-462f-a076-59c0e3cf2d31)
 
