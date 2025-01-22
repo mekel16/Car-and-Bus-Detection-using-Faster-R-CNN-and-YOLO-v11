@@ -33,18 +33,32 @@ Each folder contains:
 
 ## 📁 Folder Structure  
 
-Here’s the dataset structure:  
+The dataset is organized into the following structure:  
 
-```plaintext
-📦 Dataset
- ┣ 📂 Train
- ┃ ┣ 📂 images
- ┃ ┣ 📂 Label
- ┣ 📂 Validation
- ┃ ┣ 📂 images
- ┃ ┣ 📂 Label
- ┣ 📂 Test
- ┃ ┣ 📂 images
- ┃ ┣ 📂 Label
+- **Train**  
+  - `images/` - Contains all training images.  
+  - `labels/` - Contains annotation files in YOLO format.  
+- **Validation**  
+  - `images/` - Contains all validation images.  
+  - `labels/` - Contains annotation files in YOLO format.  
+- **Test**  
+  - `images/` - Contains all test images.  
+  - `labels/` - Contains annotation files in YOLO format.  
 
+---
 
+## 📈 Results  
+
+The results of using Faster R-CNN are not very good due to unbalanced labels, especially for the bus class. The accuracy metrics obtained are as follows:  
+
+### Matrix Accuracy  
+![Matrix Accuracy](assets/Matrix%20Acuration.jpeg)  
+
+### Additional Metrics  
+Below is the precision-recall curve:  
+
+![Precision-Recall Curve](https://github.com/user-attachments/assets/117436c4-36ab-462f-a076-59c0e3cf2d31)  
+
+---
+
+Feel free to contribute or report any issues in this project! 🚀  
