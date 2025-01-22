@@ -21,9 +21,8 @@ Each folder contains:
    - Roboflow exported the data into Train, Validation, and Test folders.  
 
 2. **Model Selection**  
-   - **Faster R-CNN**: For a balance between accuracy and speed.  
-   - **YOLO v11**: For real-time object detection.  
-
+   - **Faster R-CNN**: 
+   - **YOLO v11**:
 3. **Training and Evaluation**  
    - Models were trained on the **Train** dataset.  
    - Performance was validated on the **Validation** dataset.  
