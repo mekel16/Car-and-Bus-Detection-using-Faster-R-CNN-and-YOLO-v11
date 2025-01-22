@@ -48,10 +48,3 @@ Here’s the dataset structure:
  ┃ ┣ 📂 Label
 
 
-📈 Results
-The results of using Faster R-CNN are not very good because the labels for the bus class are unbalanced, leading to suboptimal performance. The accuracy metrics obtained are as follows:
-
-Matrix Accuracy
-
-Additional Metrics
-The precision-recall curve is shown below:
