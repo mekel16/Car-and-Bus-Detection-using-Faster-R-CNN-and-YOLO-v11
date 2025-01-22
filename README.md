@@ -47,18 +47,27 @@ The dataset is organized into the following structure:
 
 ---
 
-## 📈 Results  
+## 📈 faster R-CNN Results  
 
 The results of using Faster R-CNN are not very good due to unbalanced labels, especially for the bus class. The accuracy metrics obtained are as follows:  
 
-### Matrix Accuracy  
+### Matrix Evaluation  
 ![Matrix Accuracy](https://github.com/user-attachments/assets/831f5fb4-076a-4c5a-b304-32d0cb1fb1d2)  
 
-### Additional Metrics  
-Below is the precision-recall curve:  
+### Test 
+Below is the results
 
-![Precision-Recall Curve](https://github.com/user-attachments/assets/117436c4-36ab-462f-a076-59c0e3cf2d31)  
+![Test on 1 image](https://github.com/user-attachments/assets/117436c4-36ab-462f-a076-59c0e3cf2d31)  
 
 ---
+
+## 📈 YOLO V11 Results  
+
+### Test
+Below is a results
+
+![Test on 1 image](https://github.com/user-attachments/assets/ea42caf9-acf7-46b1-a44c-e68db79c268c)
+)  
+
 
 Feel free to contribute or report any issues in this project! 🚀  
