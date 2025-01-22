@@ -47,3 +47,12 @@ Here’s the dataset structure:
  ┣ 📂 Test
  ┃ ┣ 📂 images
  ┃ ┣ 📂Label
+
+
+## Results
+the results of using faster r-cnn are not very good because the unbalanced labels for the buss class are very few. so that the accuracy metrics obtained are as follows
+![image](https://github.com/user-attachments/assets/831f5fb4-076a-4c5a-b304-32d0cb1fb1d2)
+
+![image](https://github.com/user-attachments/assets/117436c4-36ab-462f-a076-59c0e3cf2d31)
+
+
