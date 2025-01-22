@@ -52,7 +52,7 @@ The dataset is organized into the following structure:
 The results of using Faster R-CNN are not very good due to unbalanced labels, especially for the bus class. The accuracy metrics obtained are as follows:  
 
 ### Matrix Accuracy  
-![Matrix Accuracy](assets/Matrix%20Acuration.jpeg)  
+![Matrix Accuracy](https://github.com/user-attachments/assets/831f5fb4-076a-4c5a-b304-32d0cb1fb1d2)  
 
 ### Additional Metrics  
 Below is the precision-recall curve:  
