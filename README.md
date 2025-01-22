@@ -39,20 +39,19 @@ Here’s the dataset structure:
 📦 Dataset
  ┣ 📂 Train
  ┃ ┣ 📂 images
- ┃ ┣ 📂Label
- ┃ ┣ ...
+ ┃ ┣ 📂 Label
  ┣ 📂 Validation
  ┃ ┣ 📂 images
- ┃ ┣ 📂Label
+ ┃ ┣ 📂 Label
  ┣ 📂 Test
  ┃ ┣ 📂 images
- ┃ ┣ 📂Label
+ ┃ ┣ 📂 Label
 
 
-## Results
-the results of using faster r-cnn are not very good because the unbalanced labels for the buss class are very few. so that the accuracy metrics obtained are as follows
-![Matrix Accuracy](assets/Matrix Acuration.jpeg)
+📈 Results
+The results of using Faster R-CNN are not very good because the labels for the bus class are unbalanced, leading to suboptimal performance. The accuracy metrics obtained are as follows:
 
-![image](https://github.com/user-attachments/assets/117436c4-36ab-462f-a076-59c0e3cf2d31)
+Matrix Accuracy
 
-
+Additional Metrics
+The precision-recall curve is shown below:
